@@ -23,7 +23,7 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 
 * [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
-* [Cryptozombies](https://cryptozombies.io/)
+* **[Cryptozombies](https://cryptozombies.io/)**
 * [Capture the Ether](https://capturetheether.com/)
 
 ### Security Patterns
@@ -48,7 +48,7 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 
 * [Dapp - Simple command line tool for Smart Contract development (Dappsys/MakerDAO)](https://dapp.readthedocs.io/)
 * [Remix - Solidity IDE](http://remix.ethereum.org/)
-* [Truffle](http://truffleframework.com/)
+* **[Truffle](http://truffleframework.com/)**
 
 ### Runtime Environment
 
