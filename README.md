@@ -52,12 +52,12 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 
 ### Runtime Environment
 
-* [Ganache - Personal Blockchain for Ethereum Development](https://github.com/trufflesuite/ganache)
+* **[Ganache - Personal Blockchain for Ethereum Development](https://github.com/trufflesuite/ganache)**
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html)
 
 ## Deployment
 
-* [Truffle](http://truffleframework.com/)
+* **[Truffle](http://truffleframework.com/)**
 * [Populus - Smart Contract development framework in Python](http://populus.readthedocs.io/en/latest/)
 
 ## Monitoring
