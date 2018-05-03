@@ -13,5 +13,6 @@ To learn about Solidity it's tweaks and general syntax I highly recommend doing 
 
 ## DApp
 The DApp example is taken from Parity s [tutorial](https://wiki.parity.io/Tutorial-Part-1.html).
-To test and play with your DApp use one of ethereums [Testchains](https://wiki.parity.io/Chain-specification.html) (e.g. Kovan) instead of the Parity Dev-Chain.
+To initiate your own Dapp project I remcommend uisng [chevdor's generator](https://github.com/chevdor/generator-ethdapp)
+To test and play with your DApp & Smart Contracts use one of ethereums [Testchains](https://wiki.parity.io/Chain-specification.html) (e.g. Kovan) instead of the Parity Dev-Chain.
 Basic Javascript DApp can easily be developed within the Parity Client. I recommend [Truffle](http://truffleframework.com) for more advanced development and testing.
